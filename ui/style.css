@@ -1,11 +1,11 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    font-family:sans-serif;
+        background-color: white;
+        
 }
 
-.center {
-    text-align: center;
+.left {
+    text-align: left;
 }
 
 .text-big {
@@ -13,7 +13,7 @@ body {
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: bold ;
 }
 
 .img-medium {
